@@ -20,3 +20,13 @@ For instance, you could say
 
 6. What is your biggest concern regarding your project? (a few sentences max).
 - Out biggest concern is we are still confused about if we are going to use Zach's actual eDNA data or not. We are also concerned about what broad biology question we should focus on for this project. We want to know if we can/should focus on a particular trait so we can visualize the use of our program in the future
+
+## Grade Discussion 5 (week5): 20/20 Nice work!!! :thumbsup:
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
+
